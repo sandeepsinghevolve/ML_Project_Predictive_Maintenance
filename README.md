@@ -1,7 +1,7 @@
 # ML_Project_Predictive_Maintenance
 "Predictive Maintenance with Machine Learning"
 # Introduction
-This is the final project of my Computer Science AP degree. And the title of the project is "Predictive Maintenance with Machine Learning". For more detailed descriptions of this project, please read the following sections.
+The title of the project is "Predictive Maintenance with Machine Learning". For more detailed descriptions of this project, please read the following sections.
 
 # Problem statement
 Machines are critical to all business nowadays, and we expect them to operate at peak level for long time. Normally, we can use corrective maintenance strategy to make the best use of machines. But we could end up costing even higher due to downtime and labor.
